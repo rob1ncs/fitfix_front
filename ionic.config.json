@@ -1,0 +1,8 @@
+{
+  "name": "prea",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
